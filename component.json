@@ -4,7 +4,9 @@
   "description": "User agent parser",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+  	  "component/inherit": "*"
+  	},
   "development": {},
   "scripts": ["index.js"],
   "main": "index.js",
