@@ -1,0 +1,12 @@
+{
+  "name": "user-agent",
+  "repo": "slifszyc/user-agent",
+  "description": "User agent parser",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": ["index.js"],
+  "main": "index.js",
+  "license": "MIT"
+}
