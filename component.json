@@ -3,7 +3,7 @@
   "repo": "slifszyc/user-agent",
   "description": "User agent parser",
   "version": "0.0.3",
-  "keywords": [],
+  "keywords": ["user", "agent", "parser", "ua", "browser", "version"],
   "dependencies": {
   	  "component/inherit": "*"
   	},
