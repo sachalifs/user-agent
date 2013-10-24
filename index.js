@@ -16,7 +16,7 @@ exports.ie = IE;
  */
 
 function IE() {
-  if (!this instanceof IE) {
+  if (!(this instanceof IE)) {
   	return new IE();
   }
   
