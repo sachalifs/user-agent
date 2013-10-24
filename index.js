@@ -16,7 +16,10 @@ exports.ie = IE;
  */
 
 function IE() {
-  if (!this instanceof IE) return new IE();
+  if (!this instanceof IE) {
+  	return new IE();
+  }
+  
   this.name = 'Internet Explorer';
   this.uaname = 'msie';
   this.version = ua.indexOf('msie') != -1 ? parseInt(ua.split('msie')[1]) : false;
