@@ -9,3 +9,9 @@ exports.ie = require('./lib/ie');
  */
 
 exports.ff = require('./lib/ff');
+
+/**
+ * Expose Chrome constructor
+ */
+
+exports.chrome = require('./lib/chrome');

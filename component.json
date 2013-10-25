@@ -8,7 +8,7 @@
   	  "component/inherit": "*"
   	},
   "development": {},
-  "scripts": ["index.js", "lib/ie.js", "lib/query.js"],
+  "scripts": ["index.js", "lib/ie.js", "lib/ff.js", "lib/chrome.js", "lib/query.js"],
   "main": "index.js",
   "license": "MIT"
 }
