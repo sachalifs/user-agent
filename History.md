@@ -1,4 +1,11 @@
 
+0.0.6 / 2013-10-25 
+==================
+
+ * Add Chrome support
+ * Changes in index.js to expose FF support
+ * Add firefox support
+
 0.0.4 / 2013-10-24 
 ==================
 
