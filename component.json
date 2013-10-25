@@ -2,7 +2,7 @@
   "name": "user-agent",
   "repo": "slifszyc/user-agent",
   "description": "User agent parser",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "keywords": ["user", "agent", "parser", "ua", "browser", "version"],
   "dependencies": {
   	  "component/inherit": "*"
