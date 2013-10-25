@@ -7,7 +7,8 @@
 	<div id="myDiv"></div>
 	<script type="text/javascript">
 	  var ua = require('user-agent');
-	  console.log(ua.ie().version);
+	  console.log('IE version: %s', ua.ie().version);
+	  console.log('Firefox version: %s', ua.ff().version);
 	</script>
 </body>
 </html>
