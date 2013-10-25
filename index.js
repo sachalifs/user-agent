@@ -3,4 +3,9 @@
  */
 
 exports.ie = require('./lib/ie');
-exports.ie = require('./lib/ff');
+
+/**
+ * Expose FF constructor
+ */
+
+exports.ff = require('./lib/ff');
